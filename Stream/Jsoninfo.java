@@ -1,10 +1,9 @@
 package Stream;
 
-public class Map {
+public class Jsoninfo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		JSONParser movie=new JSONPerser();
 
 	}
-
 }
